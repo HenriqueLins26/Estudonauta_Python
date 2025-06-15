@@ -1,2 +1,2 @@
-# Estudonauta_Python
+# Estudonauta - Linguagem Python
 
